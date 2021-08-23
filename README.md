@@ -1,2 +1,3 @@
-# nine-line
-# scrips
+# 常用脚本
+
+## MYSQL dump/reset
